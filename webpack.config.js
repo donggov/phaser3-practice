@@ -14,6 +14,7 @@ module.exports = function (env, argv) {
     entry: {
       "01_navmesh/js/main": "./01_navmesh/js/main.js",
       "02_tiled_and_player/js/main": "./02_tiled_and_player/js/main.js",
+      "03_fog_of_field/js/main": "./03_fog_of_field/js/main.js",
     },
     output: {
       filename: "[name].js",
