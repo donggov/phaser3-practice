@@ -16,6 +16,7 @@ module.exports = function (env, argv) {
       "02_tiled_and_player/js/main": "./02_tiled_and_player/js/main.js",
       "03_fog_of_field/js/main": "./03_fog_of_field/js/main.js",
       "04_speech_bubble/js/main": "./04_speech_bubble/js/main.js",
+      "05_click_move/js/main": "./05_click_move/js/main.js",
     },
     output: {
       filename: "[name].js",
